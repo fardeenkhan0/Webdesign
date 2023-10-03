@@ -1,0 +1,52 @@
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style: none;
+}
+
+.footer {
+    background-color: #32363a;
+    padding: 70PX 0;
+}
+
+.footer-col {
+    width: 25%;
+    padding: 0px 48px;
+    
+    
+}
+.footer-col h4{ color: white;
+    font-weight: 600;
+    font-size: 1.8vw;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.footer-col h4 span{
+    color: #eeac21;
+}
+
+.footer-col ul li {
+    line-height: 28px;
+    position: relative;
+    width: 50%;
+    float: left;
+}
+.footer-col ul li a{
+    font-family: 'Heebo', sans-serif;
+    font-size: 1.2vw;
+    color: #cecece;
+    text-decoration: none;
+}
+.footer-col p{ line-height: 12px;
+    font-family: 'Heebo', sans-serif;
+    color: #cecece;
+
+    }

@@ -1,0 +1,19 @@
+.b {
+    border:  0px solid red;
+    width: 250px;
+    height: 300px;
+    float: left; margin: 9px;
+    margin-top: -158px;
+    margin-left: 27px;
+}
+.c {
+    border: 2px solid greenyellow;
+    width: 250px;
+    height: 300px;
+    float: left; margin: 9px;
+}
+.a{color: whitesmoke; text-align: center;
+
+}.f{
+    color: red;
+}

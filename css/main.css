@@ -1,0 +1,45 @@
+body {
+    background:url('../image/7b82caf6e0e707b90cfce2dec5162158.jpeg')
+}
+
+.a {
+    border: 2px solid aquamarine;
+    width: 350px;
+    height: 400px;
+    float: left;
+    margin: 9px;
+    background-color: aquamarine;
+    box-shadow: 3px 5px 13px black;
+}
+
+.b {
+    background-color: lightgreen;
+    color: green;
+    text-align: center;
+    font-size: 55px;
+}
+
+.btn {
+    position: relative;
+    top: -10px;
+    width: 184px;
+    height: 36px;
+    background: lightgreen;
+    color: aliceblue;
+    font-size: 17px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 3px 5px 13px black;
+}
+
+.btn:hover {
+    background: khaki;
+    transition: 1s;
+
+}
+
+.a:hover {
+    background: khaki;
+    transition: 1s;
+
+}
